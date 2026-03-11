@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+artifacts/
+data/found_items/*
+data/found_items_metadata.csv
+.DS_Store
+
+# keep placeholder files
+!data/.gitkeep
+!data/found_items/.gitkeep
